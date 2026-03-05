@@ -19,7 +19,7 @@ Lo primero que hicimos fue leer el codigo original y nos dimos cuenta que el mai
 
 ### ¿Qué bloques se repiten?
 
-Nos dimos cuenta que la verificacion de si las listas estan vacias aparece en tres metodos distintos. Tambien el recorrer las listas con un `for` se repite en varios lados, y el llamado a `pausar()` aparece despues de casi todas las opciones del switch.
+Nos dimos cuenta que la verificacion de si las listas estan vacias aparece en tres metodos distintos. Tambien el recorrer las listas con un `for` se repite en varios lados, y el llamado a `pausar()` aparece despues de casi todas las opciones del switch
 
 ### ¿Qué responsabilidades pueden separarse?
 
